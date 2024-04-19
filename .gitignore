@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 .vscode
-public/*
+videos/*
 
 # Editor directories and files
 .vscode/*
